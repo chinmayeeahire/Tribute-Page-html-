@@ -1,0 +1,14 @@
+body{
+  line-height: 2.5rem;
+}
+
+h1,h2,h3,h4,h5,h6{
+  text-align: center;
+}
+img{
+  margin: auto 37%;
+}
+p{
+  text-align: center;
+  padding-left: 38%;
+}
