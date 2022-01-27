@@ -1,5 +1,6 @@
 body{
   line-height: 2.5rem;
+  background-color: #F6AE99;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -12,3 +13,14 @@ p{
   text-align: center;
   padding-left: 38%;
 }
+.quote{
+  font-size: 2.5rem;
+  font-family: "Monteserrat";
+  font-weight: 900;
+}
+.heading{
+  font-size: 3.5rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+
